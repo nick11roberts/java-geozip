@@ -1,4 +1,4 @@
-package javaGeozip;
+package io.github.nick11roberts.javaGeozip;
 
 public class LatLonPair {
   private Double latitude;
